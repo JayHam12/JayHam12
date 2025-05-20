@@ -45,13 +45,33 @@
 
 ---
 
-## 🚀 Projects (Add these as you build them)
+## 🛠️ Freelance Services
+
+### 💼 Upwork Projects
+
+- 🔐 [Remote Work Security Setup – VPN, MFA & Endpoint Hardening](https://www.upwork.com/services/product/development-it-a-comprehensive-remote-work-security-setup-vpn-mfa-endpoint-hardening-1924688810439255077?ref=project_share)
+- ⚙️ [C++ Development & Debugging for Fast, Reliable Applications](https://www.upwork.com/services/product/development-it-an-efficient-c-development-and-debugging-for-fast-reliable-applications-1924187283219073765?ref=project_share)
+- 🧰 [Remote Technical Support for Network & Security Issues](https://www.upwork.com/services/product/development-it-a-remote-technical-support-for-network-and-security-issues-1923936603509108513?ref=project_share)
+- 🛡️ [Small Business Network Security Audit](https://www.upwork.com/services/product/development-it-a-comprehensive-small-business-network-security-audit-1923933183996193650?ref=project_share)
+- 📡 [Secure Home Network Setup – Wi-Fi & Privacy](https://www.upwork.com/services/product/development-it-a-secure-home-network-setup-for-optimal-wi-fi-and-privacy-1923923856093548018?ref=project_share)
+
+### 🎨 Fiverr Gigs
+
+- 🧪 [Cybersecurity Consulting – Starter Package ($30)](https://www.fiverr.com/s/8zoRvVq)
+- 🔍 [Beginner Threat Analysis Service ($50)](https://www.fiverr.com/s/wk4K3Eg)
+
+### 🌐 Platforms
+
+[![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/)  
+[![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/8zoRvVq)
+
+---
+
+## 🚀 Projects (More Coming Soon)
 
 - `🔒 cybersecurity-practice-labs` – Tools and scripts for network analysis
 - `📊 python-mini-projects` – Practice programs in Python and OOP
 - `🧮 cpp-basics` – Foundational C++ programs from coursework
-
-> *(Create and pin your best repos here.)*
 
 ---
 
